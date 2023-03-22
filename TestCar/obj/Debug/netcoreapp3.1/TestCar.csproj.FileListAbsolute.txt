@@ -1,3 +1,0 @@
-C:\Users\sebastian.alfredsso\Documents\Libary\Libary\TestCar\bin\Debug\netcoreapp3.1\TestCar.exe
-C:\Users\sebastian.alfredsso\Documents\Libary\Libary\TestCar\obj\Debug\netcoreapp3.1\TestCar.AssemblyInfoInputs.cache
-C:\Users\sebastian.alfredsso\Documents\Libary\Libary\TestCar\obj\Debug\netcoreapp3.1\TestCar.AssemblyInfo.cs
